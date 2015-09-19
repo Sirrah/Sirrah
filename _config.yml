@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title: Sirrah
+locale: en_US
+url: http://www.sirrah.nl
 
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
-markdown:    kramdown
+permalink:  /:categories/:title/
+markdown: kramdown
 highlighter: pygments
 sass:
   sass_dir: _sass
@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Peter Oost
+  avatar: portrait.jpg
+  bio: "Freelance software engineer."
+  email: peteroost@sirrah.nl
   disqus-shortname:
   twitter: #username
   facebook: #username
   google:
-    plus: #username
-    analytics:
+    plus: PeterOost #username
+    analytics: 'UA-31458804-1'
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: Sirrah #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: peteroost #username
   xing: #username
   instagram: #username
   lastfm: #username
