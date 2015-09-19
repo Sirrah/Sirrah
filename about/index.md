@@ -1,25 +1,21 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: About
+tags: [about, software engineer, freelance]
+modified: 2015-09-19
+comments: false
+share: false
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Hello, I'm Peter Oost, a freelance software engineer from The Netherlands.
+My experience covers multiple platforms and languages (C++, .Net, Java, ...) and I prefer to work with graphics (OpenGL) and artificial intelligence.
 
-## Minimal Mistakes is all about:
+Recently I've been experimenting more and more with web development but native development is alive and well.
+I believe there is more to mobile devices and web development than replacing old desktop metaphors by cross-browser websites.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+If you want to work with me on your project, whether this is an Augmented Reality app or enterprise software, feel free to contact me.
+My full résumé is available upon request and please take a look at my [GitHub](https://github.com/Sirrah) and [LinkedIn](http://www.linkedin.com/in/peteroost) pages.

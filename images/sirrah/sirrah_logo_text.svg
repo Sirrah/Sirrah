@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="53.800781"
+   height="20.835938"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="sirrah_logo_text.svg"
+   inkscape:export-filename="/home/seraphim/dotcloud/sirrah/_media/sirrah_logo.png"
+   inkscape:export-xdpi="366.07745"
+   inkscape:export-ydpi="366.07745">
+  <title
+     id="title2994">Sirrah</title>
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#ffffff"
+     borderopacity="0.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="0"
+     inkscape:zoom="2.8"
+     inkscape:cx="22.400609"
+     inkscape:cy="63.75396"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1062"
+     inkscape:window-height="852"
+     inkscape:window-x="151"
+     inkscape:window-y="94"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Sirrah</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Sirrah</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://www.sirrah.nl</dc:source>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(317.85712,-412.95483)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Montez;-inkscape-font-specification:Montez"
+       x="-284.29141"
+       y="307.63391"
+       id="text2993-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98480775,-0.17364818,0.17364818,0.98480775,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2995-0"
+         x="-284.29141"
+         y="307.63391"
+         style="font-size:24px;fill:#f6f0d8;fill-opacity:1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Montez;-inkscape-font-specification:Montez"
+       x="-318.56024"
+       y="429.34937"
+       id="text3788"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="214.12329"
+       inkscape:export-ydpi="214.12329"><tspan
+         sodipodi:role="line"
+         id="tspan3790"
+         x="-318.56024"
+         y="429.34937"
+         style="font-size:24px">Sirrah</tspan></text>
+  </g>
+</svg>
