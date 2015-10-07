@@ -6,7 +6,12 @@ excerpt: "Race around the globe and defend our blue planet from incoming asteroi
 image:
   feature: blue_planet_earth/page_header.png
 ---
-{% include _blue_planet_promo.html %}
+
+<div class="pull-right floater-right">
+  <a href="{{ site.url }}/images/blue_planet_earth/portrait.png">
+    <img src="{{ site.url }}/images/blue_planet_earth/portrait-thumbnail.png" alt="screenshot" width="200" height="320"/>
+  </a>
+</div>
 
 Race around the globe and defend our blue planet from incoming asteroids.
 
@@ -26,3 +31,9 @@ Much of the artwork is from artists who have placed their work under a [Creative
 
 Blue Planet: Earth is available on [Google Play](https://play.google.com/store/apps/details?id=nl.sirrah.blueplanetearth.android.free).
 For questions and comments please contact me at [support@sirrah](mailto:support@sirrah.nl).
+
+<div class="floater-center">
+  <a href="https://play.google.com/store/apps/details?id=nl.sirrah.blueplanetearth.android.free">
+    <img src="http://www.android.com/images/brand/android_app_on_play_large.png" title="Blue Planet: Earth on Google Play" alt="Google Play logo"/>
+  </a>
+</div>

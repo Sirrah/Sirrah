@@ -730,3 +730,13 @@ $button-size: 1.5rem;
 #goog-wm-sb {
 	@extend .btn;
 }
+
+.floater-right {
+	padding-left: 25px;
+	padding-bottom: 25px;
+}
+
+.floater-center {
+	padding: 25px 50px;
+	text-align: center;
+}
