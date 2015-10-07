@@ -4,7 +4,7 @@ title: Blue Planet - Earth
 modified: 2012-05-25
 excerpt: "Race around the globe and defend our blue planet from incoming asteroids."
 image:
-  feature: blue_planet_earth/page_header.jpg
+  feature: blue_planet_earth/page_header.png
 ---
 {% include _blue_planet_promo.html %}
 
