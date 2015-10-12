@@ -359,12 +359,6 @@ $button-size: 1.5rem;
   &:visited {
     color: $black;
   }
-  &:hover {
-    @include scale(1.1);
-  }
-  &:active {
-    @include translate(0, 2px);
-  }
   .fa {
 		margin-right: 5px;
 	}
