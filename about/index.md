@@ -5,10 +5,6 @@ tags: [about, software engineer, freelance]
 modified: 2015-09-19
 comments: false
 share: false
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Hello, I'm Peter Oost, a freelance software engineer from The Netherlands.
