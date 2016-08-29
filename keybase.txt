@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/sirrah
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.sirrah.nl
+  * I am sirrah (https://keybase.io/sirrah) on keybase.
+  * I have a public key with fingerprint 4A13 0871 EA04 A1C2 F6DB  12D3 9D92 876C 74E3 DAFE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101d4b0ffab4792727b69c3f4966799848a02a37a5b51248f5edc597c84ca0478e30a",
+            "fingerprint": "4a130871ea04a1c2f6db12d39d92876c74e3dafe",
+            "host": "keybase.io",
+            "key_id": "9d92876c74e3dafe",
+            "kid": "0101d4b0ffab4792727b69c3f4966799848a02a37a5b51248f5edc597c84ca0478e30a",
+            "uid": "abf40cc7cf478cd53afccd5108618219",
+            "username": "sirrah"
+        },
+        "service": {
+            "hostname": "www.sirrah.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1472480677,
+    "expire_in": 157680000,
+    "prev": "4e90422be6b8c8b921491e01fafee86de0147efc155737fb38b8203983c9333f",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJdSBVBFL6mqUmBVmSIYW0PlVx1Z3d2Z+dGYD/6UkH/SWq32dnZ65rd
+ve1dvZVZEWVIBEVkJaIZBCWSlFgUUVb+JJb5EFKERS/1UvSjUNJDzd7srcfm5cyc
+833fnPNxemcl+tIS6NjspNbpDYkJQw/PVfu29xZdqRV029gvBGqF3SweWJXBom5w
+t2UIAUEEIjCgLpom0SHCEpKQrmIqmxCrKsJYgxoRJSIjougKkKBmKsygCkZUg5SI
+EGlMFongF0wrHGJOxLHCLpeFBMiihgDjEAKoZKqGDiRDxgaWNKRSBJlsEJNxYoUd
+9Ri8OZ1EWb5l8xx/BOPt/QP/n/uujssR3YQipYiavEINRSYm5QGImgo0CWAPGGVO
+mOxhHB21HIdUCHV+gedqLMo8W705puqxWCz/DyY/XMWpEcd2bWpX8VKF60YCHtPd
+H4lDmR6cEgnqVtjgLnJCDXOilh0WAoAjqWt5qgAiPoaoIuQX2L6I5bCg5SEUpGoi
+P943rMbznmERSpLOVF2jmo4lADFgIjC5f0xTDX6FiJkUKAqSkanLmq5Joow1mWJZ
+lk3BG2tv2BYCkLdJQvGBQ2HiVjtMqHvUU5bkS0jzJU+f5m2XL21G+t+du1Se6nvw
+fHh8ReTQyp6JYO3tPTc3KL9OlvctkDcvmpjzcri+2WpPLr9anRpq3LVgS0ZD/6ps
+/zM8sbrrTffCdX0/2w6GBq6dGvv0sT8DZD6eVrh2ZHFbrz/vfNOZWMsa00msCK6e
+G8ppevTtZcPg4NHGdRNL+zJTlh8rykt4OCuyyXn75Wlu4rzmjp119yavL9NTztZm
+Dcxn60tmgoJA11DOzB2tuWx07EhffXr33a0lRDze31nv3r/QXlkW69g4uuHJq9Jo
+AXo7/GPkIPRlL//QeeP7oeSaJZ8bgdn0OuPy6awUWFlSWHrg+NfiE1LvYeHdtvHR
+W5Vzi/GLi3cm5zTi9w32s/SW33H6OPk=
+=3XW4
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sirrah
+
+==================================================================
