@@ -1,4 +1,4 @@
-Logo for http://www.sirrah.nl
+Logo for https://www.sirrah.nl
 
 The logo consists of the text 'Sirrah' written in Montez[1] placed on a dark circle.
 
