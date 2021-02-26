@@ -34,8 +34,8 @@ owner:
   twitter: #username
   facebook: #username
   google:
-    plus: PeterOost #username
-    analytics: 'UA-31458804-1'
+    plus: #username
+    analytics:
     verify:
     ad-client:
     ad-slot:
