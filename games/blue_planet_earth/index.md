@@ -34,6 +34,6 @@ For questions and comments please contact me at [support@sirrah](mailto:support@
 
 <div class="floater-center">
   <a href="https://play.google.com/store/apps/details?id=nl.sirrah.blueplanetearth.android.free">
-    <img src="http://www.android.com/images/brand/android_app_on_play_large.png" title="Blue Planet: Earth on Google Play" alt="Google Play logo"/>
+    <img src="{{ site.url }}/images/android_app_on_play_large.png" title="Blue Planet: Earth on Google Play" alt="Google Play logo"/>
   </a>
 </div>
