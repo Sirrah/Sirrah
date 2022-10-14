@@ -3,9 +3,12 @@
 - title: About
   url: /about/
 
-- title: Blog
-  url: /posts/
+#- title: Blog
+#  url: /posts/
 
 # Until I have more, link directly to blue Planet
+#- title: Games
+#  url: /games/blue_planet_earth/
+
 - title: Games
-  url: /games/blue_planet_earth/
+  url: /games/trappist/
